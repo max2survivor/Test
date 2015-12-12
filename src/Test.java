@@ -1,5 +1,6 @@
 
 public class Test {
-  syste
-
+public void getR(){
+		
+	}
 }
